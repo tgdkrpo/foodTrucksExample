@@ -11,7 +11,7 @@ place api key at .env as:
 GOOGLE_MAP_API_KEY=API_KEY_VALUE
 ```
 
-To install dependenices run
+To install dependencies run
 `npm install`
 
 To run tests use
